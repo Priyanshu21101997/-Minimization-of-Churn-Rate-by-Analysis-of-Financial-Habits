@@ -4,7 +4,7 @@ churn  - Active = No | Suspended < 30 = No Else Churn = Yes
 age - age of the customer
 city - city of the customer
 state- state where the customer lives
-postal_code - zip code of the customer
+postal_code - zip code of the custome
 zodiac_sign- zodiac sign of the customer
 rent_or_own - Does the customer rents or owns a house 
 more_than_one_mobile_device - does the customer use more than one mobile device
